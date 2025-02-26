@@ -1,5 +1,4 @@
-<<<<<<< HEAD
- Update Feature: Oauth integration
-=======
-Feature: user authentication\nDetails: login and signup
->>>>>>> feature-update
+Update Feature: Oauth integration
+Feature: user authentication
+Details: login and signup
+
