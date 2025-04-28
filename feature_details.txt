@@ -1,1 +1,4 @@
-Feature: user authentication\nDetails: login and signup
+Update Feature: Oauth integration
+Feature: user authentication
+Details: login and signup..
+
